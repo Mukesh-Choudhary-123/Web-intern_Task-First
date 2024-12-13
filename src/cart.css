@@ -1,0 +1,22 @@
+.all-items {
+  display: flex;
+}
+.item-card {
+  width: 10rem;
+  background-color: lightblue;
+  padding-bottom: 0.5rem;
+  border-radius: 1rem;
+  margin: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+#button2 {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cart {
+  background: lightcoral;
+  border-radius: 1rem;
+  padding-top: 1px;
+  padding-bottom: 0.4rem;
+}
